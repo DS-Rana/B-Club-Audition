@@ -1,0 +1,73 @@
+body{
+  
+     background-color: #ECE5C7;
+
+}
+
+
+fieldset{
+  background-color:#35A1C4;
+  border:none;
+  border-radius: 20px;
+margin:auto;
+  width:450px;
+  height:550px;
+
+}
+ h2
+ {
+background-color: #0066FF;
+color:#fff;/*this color is used to colour text;*//*int htis case its white*/
+margin: 0 -11px 0 -11px;/*general se opposite jayega negative lagane se*/
+padding: 15px;/*text ke alawa h2 ke rectaNGLE MAI JO SPACE BAKI HAI*/
+position: relative;
+bottom: 4.5px;
+border-radius: 10px;
+ }
+ .zebra
+ {
+width: 330PX;
+height: 40px;
+border: none;
+border-radius: 10px;
+text-align: center;
+margin-left: 50px;
+font-size:20px;
+font-weight: bold;
+
+
+ }
+ .txtarea
+ {
+width: 330PX;
+height: 40px;
+border: none;
+border-radius: 10px;
+text-align: center;
+margin-left: 50px;
+font-size:20px;
+font-weight: bold;
+
+
+ }
+ #login{
+   width: 150PX;
+   height: 45px;
+   border: none;
+background-color: red;
+   color:#fff;
+
+   border-radius: 10px;
+margin-top: -7px;
+   margin-left: 145px;
+   font-size:20px;
+   font-weight: bold;
+
+ }
+
+.txtarea
+{
+    width: auto;
+    height: auto;
+    
+}
